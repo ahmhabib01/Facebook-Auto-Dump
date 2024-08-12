@@ -25,13 +25,16 @@ pkg install git
 pkg install python
 ```
 ```bash
-git clone https://github.com/ahmhabib01/FACEBOOK-BRUTEFORCE-ATTACk
+pip install requests
 ```
 ```bash
-cd FACEBOOK-BRUTEFORCE-ATTACk
+https://github.com/ahmhabib01/Facebook-Auto-Dump.git
 ```
 ```bash
-python bdcfbhack.py
+cd Facebook-Auto-Dump
+```
+```bash
+python Autodump.py
 ```
 
 ## ⚠️𝐖𝐀𝐑𝐍𝐈𝐍𝐆!⚠️
