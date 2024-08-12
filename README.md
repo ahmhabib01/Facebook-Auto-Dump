@@ -29,7 +29,7 @@ pkg install python
 pip install requests
 ```
 ```bash
-https://github.com/ahmhabib01/Facebook-Auto-Dump.git
+git clone https://github.com/ahmhabib01/Facebook-Auto-Dump.git
 ```
 ```bash
 cd Facebook-Auto-Dump
